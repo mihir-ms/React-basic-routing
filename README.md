@@ -1,2 +1,2 @@
-# React-basic-routing
+# Basic-Routing
 Coded in React JS
